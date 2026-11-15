@@ -3,7 +3,6 @@
 [![Stars](https://img.shields.io/github/stars/hashy143/pshist?style=flat&logo=github)](https://github.com/hashy143/pshist/stargazers)
 [![Forks](https://img.shields.io/github/forks/hashy143/pshist?style=flat&logo=github)](https://github.com/hashy143/pshist/network/members)
 [![Downloads](https://img.shields.io/github/downloads/hashy143/pshist/total?logo=github)](https://github.com/hashy143/pshist/releases)
-[![Rust](https://img.shields.io/badge/Rust-2021-orange?logo=rust)](https://www.rust-lang.org/)
 ![Views](https://komarev.com/ghpvc/?username=hashy143-pshist&label=Views&style=flat)
 
 Консольная утилита для Windows, которая собирает историю и следы работы PowerShell из разных источников в один отчёт и подсвечивает подозрительные команды. Написана на Rust, без внешних зависимостей.
