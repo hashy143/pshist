@@ -2,11 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/hashy143/pshist?style=flat&logo=github)](https://github.com/hashy143/pshist/stargazers)
 [![Forks](https://img.shields.io/github/forks/hashy143/pshist?style=flat&logo=github)](https://github.com/hashy143/pshist/network/members)
-[![Release](https://img.shields.io/github/v/release/hashy143/pshist?include_prereleases&logo=github)](https://github.com/hashy143/pshist/releases)
 [![Downloads](https://img.shields.io/github/downloads/hashy143/pshist/total?logo=github)](https://github.com/hashy143/pshist/releases)
-[![Issues](https://img.shields.io/github/issues/hashy143/pshist)](https://github.com/hashy143/pshist/issues)
-[![Last commit](https://img.shields.io/github/last-commit/hashy143/pshist)](https://github.com/hashy143/pshist/commits)
-[![Code size](https://img.shields.io/github/languages/code-size/hashy143/pshist)](https://github.com/hashy143/pshist)
 [![Rust](https://img.shields.io/badge/Rust-2021-orange?logo=rust)](https://www.rust-lang.org/)
 ![Views](https://komarev.com/ghpvc/?username=hashy143-pshist&label=Views&style=flat)
 
